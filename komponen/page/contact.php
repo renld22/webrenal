@@ -28,8 +28,8 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Email</h4>
-                                            <a href="mailto:yourmail@email.com">yourmail@email.com</a><br>
-                                            <a href="mailto:yourmail@email.com">yourmail@email.com</a>
+                                            <a href="mailto:yourmail@email.com">renaldimfauzi3@email.com</a><br>
+                                            <a href="mailto:yourmail@email.com">renaldimuhammadf3@email.com</a>
                                         </div>
                                     </div>
                                 </div>

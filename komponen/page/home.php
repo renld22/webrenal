@@ -1,5 +1,5 @@
 <section class="mh-home" id="mh-home">
-            <div class="home-ovimg">
+            <div class="home-ovimg bg-dark link">
                 <div class="container">
                     <div class="row xs-column-reverse section-separator vertical-middle-content home-padding">
                         <div class="col-sm-6">

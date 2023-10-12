@@ -632,7 +632,7 @@ button {
 .white-vertion .dark-bg {
   background-color: #fff; }
 .white-vertion .mh-home .mh-header-info .mh-promo span {
-  color: rgba(53, 82, 163, 0.507); }
+  color: rgb(211, 13, 13); }
 .white-vertion .mh-project-gallery .grid-item figure figcaption a {
   color: #fff; }
 .white-vertion .mh-project-gallery .grid-item figure figcaption .title {
@@ -1015,8 +1015,8 @@ body {
   .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px; }
     .mh-home .mh-header-info .mh-promo span {
-      background-color: #ff00ff;
-      font-size: 140px;
+      background-color: #0d5fa1be;
+      font-size: 14px;
       line-height: 24px;
       letter-spacing: 1px;
       font-weight: bold;
@@ -1124,7 +1124,7 @@ body {
     padding: 4px 0px;
     display: inline-block; }
     .mh-about-tag ul li span {
-      border: 1px solid #0bceaf;
+      border: 1px solid #16b49a;
       padding: 4px 10px;
       border-radius: 4px; }
       .mh-about-tag ul li span:hover {

@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-        <title>Maha - Personal CV/Resume Template | Home 1 </title>
+        <title>Fortopolio Renal </title>
         <!-- Required meta tags -->
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">

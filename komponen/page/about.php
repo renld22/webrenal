@@ -1,7 +1,7 @@
-<section class="mh-about" id="mh-about">
+<section class="mh-about" id="mh-about ">
             <div class="container">
                 <div class="row section-separator">
-                    <div class="col-sm-12 col-md-6">
+                    <div class="col-sm-12 col-md-6 ">
                         <div class="mh-about-img shadow-2 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s">
                             <img src="assets/images/ab-img.png" alt="" class="img-fluid">
                         </div>
