@@ -294,7 +294,7 @@ a {
       top: -3px;
       width: 14px; }
   .btn.btn-fill {
-    background-color: #075f5071;
+    background-color: #0bceaf;
     color: #fff; }
   .btn.left-icon .icon {
     margin-right: 15px; }
@@ -632,7 +632,7 @@ button {
 .white-vertion .dark-bg {
   background-color: #fff; }
 .white-vertion .mh-home .mh-header-info .mh-promo span {
-  color: #fff; }
+  color: rgb(53, 82, 163); }
 .white-vertion .mh-project-gallery .grid-item figure figcaption a {
   color: #fff; }
 .white-vertion .mh-project-gallery .grid-item figure figcaption .title {
@@ -1015,8 +1015,8 @@ body {
   .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px; }
     .mh-home .mh-header-info .mh-promo span {
-      background-color: #0bceaf;
-      font-size: 14px;
+      background-color: #ff00ff;
+      font-size: 140px;
       line-height: 24px;
       letter-spacing: 1px;
       font-weight: bold;
@@ -1045,7 +1045,7 @@ body {
       .mh-home .mh-header-info ul li address {
         display: inline-block; }
       .mh-home .mh-header-info ul li:hover .fa {
-        color: #0bceaf; }
+        color: #ce0b0b; }
   .mh-home .mh-header-info .social-icon {
     margin-top: 0; }
     .mh-home .mh-header-info .social-icon li .fa {

@@ -33,14 +33,14 @@
         <link rel="stylesheet" href="assets/css/responsive.css">
         
         <!-- Colors -->
-        <link rel="alternate stylesheet" href="assets/css/colors/blue.css" title="blue">
+        <!-- <link rel="alternate stylesheet" href="assets/css/colors/blue.css" title="blue">
         <link rel="stylesheet" href="assets/css/colors/defauld.css" title="defauld">
         <link rel="alternate stylesheet" href="assets/css/colors/green.css" title="green">
         <link rel="alternate stylesheet" href="assets/css/colors/blue-munsell.css" title="blue-munsell">
         <link rel="alternate stylesheet" href="assets/css/colors/orange.css" title="orange">
         <link rel="alternate stylesheet" href="assets/css/colors/purple.css" title="purple">
         <link rel="alternate stylesheet" href="assets/css/colors/slate.css" title="slate">
-        <link rel="alternate stylesheet" href="assets/css/colors/yellow.css" title="yellow">
+        <link rel="alternate stylesheet" href="assets/css/colors/yellow.css" title="yellow"> -->
     </head>
     <body class="white-vertion black-bg">
         <!-- Start Loader -->
