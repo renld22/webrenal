@@ -632,7 +632,7 @@ button {
 .white-vertion .dark-bg {
   background-color: #fff; }
 .white-vertion .mh-home .mh-header-info .mh-promo span {
-  color: rgb(53, 82, 163); }
+  color: rgba(53, 82, 163, 0.507); }
 .white-vertion .mh-project-gallery .grid-item figure figcaption a {
   color: #fff; }
 .white-vertion .mh-project-gallery .grid-item figure figcaption .title {
