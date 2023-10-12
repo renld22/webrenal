@@ -18,9 +18,7 @@
                                     <li><span>html</span></li>
                                     <li><span>css</span></li>
                                     <li><span>php</span></li>
-                                    <li><span>wordpress</span></li>
-                                    <li><span>React</span></li>
-                                    <li><span>Javascript</span></li>
+                                    <li><span>delphi</span></li>
                                     
                                 </ul>
                             </div>
