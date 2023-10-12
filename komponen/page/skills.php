@@ -23,8 +23,8 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">Java</div>
-                                                <div class="percentagem-num">46%</div>
+                                                <div class="nome">maen mobile legend</div>
+                                                <div class="percentagem-num">75%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 46%;"></div>
@@ -56,8 +56,8 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">PHP</div>
-                                                <div class="percentagem-num">17%</div>
+                                                <div class="nome">HTML</div>
+                                                <div class="percentagem-num">18%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 17%;"></div>
@@ -77,7 +77,7 @@
                                     <div class="pr-skill-name">Communication</div>
                                 </li>
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="55"></div> 
+                                    <div class="mh-progress mh-progress-circle" data-progress="80"></div> 
                                     <div class="pr-skill-name">Team Work</div>
                                 </li>
                                 <li>
@@ -85,7 +85,7 @@
                                     <div class="pr-skill-name">Project Management</div>
                                 </li> 
                                 <li>
-                                    <div class="mh-progress mh-progress-circle" data-progress="60"></div>
+                                    <div class="mh-progress mh-progress-circle" data-progress="85"></div>
                                     <div class="pr-skill-name">Creativity</div>
                                 </li>
                             </ul>

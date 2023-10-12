@@ -18,10 +18,10 @@
                                 </ul>
                                 
                                 <ul class="social-icon wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-github"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="https://wa.me/6287855151881"><i class="fa fa-whatsapp"></i></a></li>
+                                    <li><a href="https://www.youtube.com/@renaldimuhammadf"><i class="fa fa-youtube"></i></a></li>
+                                    <li><a href="https://github.com/renld22"><i class="fa fa-github"></i></a></li>
+                                    <li><a href="https://www.instagram.com/renaldi_m_fauzi/"><i class="fa fa-instagram"></i></a></li>
                                 </ul>
                             </div>
                         </div>
