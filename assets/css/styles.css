@@ -594,9 +594,9 @@ button {
   font-weight: bold; }
 
 .white-vertion.black-bg {
-  background-color: rgb(178, 178, 179); }
+  background-color: #fff; }
 .white-vertion .section-loader {
-  background: rgb(178, 178, 179); }
+  background: #fff; }
 .white-vertion ::placeholder {
   color: #000; }
 .white-vertion a {
@@ -632,7 +632,7 @@ button {
 .white-vertion .dark-bg {
   background-color: #fff; }
 .white-vertion .mh-home .mh-header-info .mh-promo span {
-  color: rgb(211, 13, 13); }
+  color: rgb(0, 0, 0); }
 .white-vertion .mh-project-gallery .grid-item figure figcaption a {
   color: #fff; }
 .white-vertion .mh-project-gallery .grid-item figure figcaption .title {
@@ -644,7 +644,7 @@ button {
 .white-vertion .page-item.active .page-link {
   background-color: #fff;
   border-color: #fff;
-  color: #030c0a; }
+  color: #095548; }
 .white-vertion .navbar-toggler .icon,
 .white-vertion .navbar-toggler .icon::after,
 .white-vertion .navbar-toggler .icon::before {
@@ -941,10 +941,10 @@ body {
       opacity: 1;
       line-height: 30px; }
       .mh-header .navbar-nav li a.nav-link {
-        padding-left: 0; color: #ffffff;
+        padding-left: 0;
         padding-right: 0; }
       .mh-header .navbar-nav li a:hover {
-        color: #7e7e7e; }
+        color: #0bceaf; }
 
 .nav-3 .navbar-dark .navbar-nav .nav-link a {
   color: rgba(255, 255, 255, 0.7); }
@@ -1015,7 +1015,7 @@ body {
   .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px; }
     .mh-home .mh-header-info .mh-promo span {
-      background-color: #09141dbe;
+      background-color: #0d5fa1be;
       font-size: 14px;
       line-height: 24px;
       letter-spacing: 1px;
@@ -1045,7 +1045,7 @@ body {
       .mh-home .mh-header-info ul li address {
         display: inline-block; }
       .mh-home .mh-header-info ul li:hover .fa {
-        color: #17bacf; }
+        color: #ce0b0b; }
   .mh-home .mh-header-info .social-icon {
     margin-top: 0; }
     .mh-home .mh-header-info .social-icon li .fa {
@@ -1223,7 +1223,7 @@ body {
       height: 7px;
       margin: 30px 0 2px;
       border-radius: 10px;
-      background: rgb(134, 120, 120); }
+      background: rgba(0, 0, 0, 0.5); }
     .candidatos .parcial .percentagem {
       position: absolute;
       top: 0;
@@ -1233,7 +1233,7 @@ body {
       border-bottom-left-radius: 10px;
       border-top-right-radius: 10px;
       border-bottom-right-radius: 10px;
-      background: #0baf97;
+      background: #0bceaf;
       -webkit-transition: 3s all;
       -webkit-animation-duration: 3s;
       -webkit-animation-name: animationProgress; }

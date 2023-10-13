@@ -79,7 +79,7 @@
                             <div class="row">
                                 <div class="col-sm-6">
                                     <div class="text-left text-xs-center">
-                                        <p><a href="templateshub.net">Templates Hub</a></p>
+                                        <p><a href="templateshub.net"></a></p>
                                     </div>
                                 </div>
                                 <div class="col-sm-6">
