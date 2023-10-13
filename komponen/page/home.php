@@ -1,5 +1,5 @@
 <section class="mh-home" id="mh-home">
-            <div class="home-ovimg bg-dark link">
+            <div class="home-ovimg ">
                 <div class="container">
                     <div class="row xs-column-reverse section-separator vertical-middle-content home-padding">
                         <div class="col-sm-6">
@@ -8,7 +8,7 @@
                                     <span>Hello I'm</span>
                                 </div>
                                 
-                                <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Renaldi Muhammad Fauzi </h2>
+                                <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Renaldi Muhammad Fauzi</h2>
                                 <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">programmer,software engineer</h4>
                                 
                                 <ul>

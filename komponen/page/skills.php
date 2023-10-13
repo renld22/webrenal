@@ -34,7 +34,7 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">Python</div>
+                                                <div class="nome">css</div>
                                                 <div class="percentagem-num">38%</div>
                                             </div>
                                             <div class="progressBar">
@@ -45,7 +45,7 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">PHP</div>
+                                                <div class="nome">php</div>
                                                 <div class="percentagem-num">17%</div>
                                             </div>
                                             <div class="progressBar">
@@ -56,7 +56,7 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">HTML</div>
+                                                <div class="nome">html</div>
                                                 <div class="percentagem-num">18%</div>
                                             </div>
                                             <div class="progressBar">

@@ -594,9 +594,9 @@ button {
   font-weight: bold; }
 
 .white-vertion.black-bg {
-  background-color: #fff; }
+  background-color: rgb(178, 178, 179); }
 .white-vertion .section-loader {
-  background: #fff; }
+  background: rgb(178, 178, 179); }
 .white-vertion ::placeholder {
   color: #000; }
 .white-vertion a {
@@ -644,7 +644,7 @@ button {
 .white-vertion .page-item.active .page-link {
   background-color: #fff;
   border-color: #fff;
-  color: #095548; }
+  color: #030c0a; }
 .white-vertion .navbar-toggler .icon,
 .white-vertion .navbar-toggler .icon::after,
 .white-vertion .navbar-toggler .icon::before {
@@ -941,10 +941,10 @@ body {
       opacity: 1;
       line-height: 30px; }
       .mh-header .navbar-nav li a.nav-link {
-        padding-left: 0;
+        padding-left: 0; color: #ffffff;
         padding-right: 0; }
       .mh-header .navbar-nav li a:hover {
-        color: #0bceaf; }
+        color: #7e7e7e; }
 
 .nav-3 .navbar-dark .navbar-nav .nav-link a {
   color: rgba(255, 255, 255, 0.7); }
@@ -1015,7 +1015,7 @@ body {
   .mh-home .mh-header-info .mh-promo {
     margin-bottom: 30px; }
     .mh-home .mh-header-info .mh-promo span {
-      background-color: #0d5fa1be;
+      background-color: #09141dbe;
       font-size: 14px;
       line-height: 24px;
       letter-spacing: 1px;
@@ -1045,7 +1045,7 @@ body {
       .mh-home .mh-header-info ul li address {
         display: inline-block; }
       .mh-home .mh-header-info ul li:hover .fa {
-        color: #ce0b0b; }
+        color: #17bacf; }
   .mh-home .mh-header-info .social-icon {
     margin-top: 0; }
     .mh-home .mh-header-info .social-icon li .fa {
@@ -1223,7 +1223,7 @@ body {
       height: 7px;
       margin: 30px 0 2px;
       border-radius: 10px;
-      background: rgba(0, 0, 0, 0.5); }
+      background: rgb(134, 120, 120); }
     .candidatos .parcial .percentagem {
       position: absolute;
       top: 0;
@@ -1233,7 +1233,7 @@ body {
       border-bottom-left-radius: 10px;
       border-top-right-radius: 10px;
       border-bottom-right-radius: 10px;
-      background: #0bceaf;
+      background: #0baf97;
       -webkit-transition: 3s all;
       -webkit-animation-duration: 3s;
       -webkit-animation-name: animationProgress; }
