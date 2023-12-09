@@ -72,7 +72,7 @@
                                     <a class="nav-link" href="./">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="?page=about">About</a>
+                                    <a class="nav-link" href="?page=about">Tentang</a>
                                 </li>
                                 <li class="nav-item">
                                    <a class="nav-link" href="?page=skills">Skills</a>
