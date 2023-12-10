@@ -9,12 +9,12 @@
                                 </div>
                                 
                                 <h2 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.2s">Renaldi Muhammad Fauzi</h2>
-                                <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">programmer,software engineer</h4>
+                                <h4 class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.3s">Mahasiswa IT menuju sukses</h4>
                                 
                                 <ul>
-                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a href="mailto:">renaldimfauzi3@email.com</a></li>
+                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.4s"><i class="fa fa-envelope"></i><a href="mailto:">renaldimfauzi3@gmail.com</a></li>
                                     <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.5s"><i class="fa fa-phone"></i><a href="callto:">087855151881</a></li>
-                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i class="fa fa-map-marker"></i><address>kosan labirin</address></li>
+                                    <li class="wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.6s"><i class="fa fa-map-marker"></i><address>Tangerang,Indonesia</address></li>
                                 </ul>
                                 
                                 <ul class="social-icon wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.7s">

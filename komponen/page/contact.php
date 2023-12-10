@@ -15,8 +15,7 @@
                                         <div class="each-info">
                                             <h4>Address</h4>
                                             <address>
-                                                5th Avenue, 34th floor, <br> 
-                                                 New york
+                                            Tangerang,Indonesia
                                             </address>
                                         </div>
                                     </div>
@@ -40,8 +39,8 @@
                                         </div>
                                         <div class="each-info">
                                             <h4>Phone</h4>
-                                            <a href="callto:(880)-8976-987">(880)-8976-987</a><br>
-                                            <a href="callto:(880)-8976-987">(880)-8976-987</a>
+                                            <a href="callto:(880)-8976-987">087755151881</a><br>
+                                            <a href="callto:(880)-8976-987">081210264164</a>
                                         </div>
                                     </div>
                                 </div>

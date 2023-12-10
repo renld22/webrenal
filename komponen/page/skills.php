@@ -13,7 +13,7 @@
                                         <div class="parcial">
                                             <div class="info">
                                                 <div class="nome">delphi</div>
-                                                <div class="percentagem-num">78%</div>
+                                                <div class="percentagem-num">60%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 78%;"></div>
@@ -23,8 +23,8 @@
                                     <div class="candidatos">
                                         <div class="parcial">
                                             <div class="info">
-                                                <div class="nome">maen mobile legend</div>
-                                                <div class="percentagem-num">75%</div>
+                                                <div class="nome">design</div>
+                                                <div class="percentagem-num">50%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 46%;"></div>
@@ -46,7 +46,7 @@
                                         <div class="parcial">
                                             <div class="info">
                                                 <div class="nome">php</div>
-                                                <div class="percentagem-num">17%</div>
+                                                <div class="percentagem-num">30%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 17%;"></div>
@@ -57,7 +57,7 @@
                                         <div class="parcial">
                                             <div class="info">
                                                 <div class="nome">html</div>
-                                                <div class="percentagem-num">18%</div>
+                                                <div class="percentagem-num">20%</div>
                                             </div>
                                             <div class="progressBar">
                                                 <div class="percentagem" style="width: 17%;"></div>
