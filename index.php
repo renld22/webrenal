@@ -14,6 +14,8 @@ if (isset($_GET['page'])) {
         include './komponen/page/portofolio.php';
 } elseif ($_GET['page'] == 'contact') {
         include './komponen/page/contact.php';
+}elseif ($_GET['page'] == 'timeline') {
+        include './komponen/page/timeline.php';
 }
 } else {
         include './komponen/page/home.php';
